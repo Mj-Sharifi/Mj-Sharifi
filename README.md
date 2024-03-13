@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is mj Sharifimanesh and I'm a front-end developer with a passion for creating engaging and user-friendly web experiences.
+My name is Mj Sharifimanesh and I'm a front-end developer with a passion for creating engaging and user-friendly web experiences.
 
 
 ## 🌐 Socials:
